@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EverWing superpowers: poor JavaScript web app game twicks
+title: EverWing superpowers, poor JavaScript web app game twicks
 categories:
  - Life
  - Software
